@@ -20,5 +20,4 @@ I am a passionate Cloud & Full-Stack Developer focusing on building secure and s
 | **Development Tools** | ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![DBeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 
 
-### 📈 GitHub Stats:
-![Marielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
+![Marielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariellelois9&show_icons=true&theme=tokyonight)
