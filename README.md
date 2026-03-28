@@ -6,7 +6,7 @@ I am a passionate Cloud & Full-Stack Developer focusing on building secure and s
 - 🔭 I’m currently working on a **Portfolio** 
 - 🛡️ Just finished building a **Spotify Clone** using Cursor 
 - ☁️ Active in **GDG on Campus PUP** **AWS Cloud Club PUP** and **Tech Community Event**
-- ⚡ Fun fact: I love visiting cafes and to movies!
+- ⚡ Fun fact: I love attending communit tech event
 - 📁 For other projects check out the **Technical-docs** on pin repositories!
   
 ### 🛠️ Tech Stack:
