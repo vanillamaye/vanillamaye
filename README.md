@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Marielle!
+# Hi there, I'm Marielle!👋
 
 ### 🚀 3rd Year Computer Engineering Technology Student @ PUP
 I am a passionate Cloud & Full-Stack Developer focusing on building secure and scalable applications.
