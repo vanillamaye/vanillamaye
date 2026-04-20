@@ -4,7 +4,6 @@
 I am a passionate Cloud & Full-Stack Developer focusing on building secure and scalable applications.
 
 - 🔭 I’m currently working on a **Portfolio** 
-- 🛡️ Just finished building a **Spotify Clone** using Cursor 
 - ☁️ Active in **GDG on Campus PUP** **AWS Cloud Club PUP** and **Tech Community Event**
 - 📁 For other projects check out the **Technical-docs** on pin repositories!
   
