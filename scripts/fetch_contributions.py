@@ -1,9 +1,13 @@
+import os
 import json
 import requests
 from bs4 import BeautifulSoup
 
 USERNAME = "vanillamaye"
 URL = f"https://github.com/users/{USERNAME}/contributions"
+
+# Ensure data directory exists
+os.makedirs("data", exist_ok=True)
 
 res = requests.get(URL)
 soup = BeautifulSoup(res.text, "html.parser")
