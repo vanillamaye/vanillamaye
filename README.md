@@ -1,20 +1,12 @@
-<div align="center">
-
-<h3><code>vanillamaye@github ~ $ neofetch</code></h3>
-<img src="./info-card.svg" width="860" />
-
-</div>
-
-<br>
-
 # Hi there, I'm Marielle! 👋
 
-### 🚀 Cloud Intern & Computer Engineering Technology Student @ PUP
-I am a passionate Cloud & Full-Stack Developer focusing on building secure, scalable infrastructure and automated pipelines.
+### 🚀 Cloud Engineer Intern | Computer Engineering Technology Student @ PUP
+I engineer resilient cloud infrastructure and full-stack systems, specializing in serverless architectures, automated deployment pipelines, and scalable AWS solutions.
 
-- 🔭 I’m currently working on **3-tier AWS architectures and DevOps automation**
-- ☁️ Active in **GDG on Campus PUP**, **AWS Cloud Club PUP**, and **Tech Community Events**
-- 📁 For other projects, check out the **Technical-docs** on pinned repositories!
+- 🔭 **Building & Architecting:** Multi-tier AWS cloud environments and seamless DevOps pipelines
+- 💡 **Exploring:** Serverless systems, containerization, and IoT integrations
+- ☁️ **Community Builder:** Proud member of **GDG on Campus PUP**, **AWS Cloud Club PUP**, and various Tech Communities
+- 📁 **Deep Dives:** Check out my **Technical-docs** in the pinned repositories below!
 
 ---
 
