@@ -3,7 +3,7 @@
 ### 🚀 Cloud Engineer Intern | Computer Engineering Technology Student @ PUP
 I engineer resilient cloud infrastructure and full-stack systems, specializing in serverless architectures, automated deployment pipelines, and scalable AWS solutions.
 
-- 🔭 **Building & Architecting:** Multi-tier AWS cloud environments and seamless DevOps pipelines
+- 🔭 **Building & Architecting:** 3-tier AWS cloud environments and seamless DevOps pipelines
 - 💡 **Exploring:** Serverless systems, containerization, and IoT integrations
 - ☁️ **Community Builder:** Proud member of **GDG on Campus PUP**, **AWS Cloud Club PUP**, and various Tech Communities
 - 📁 **Deep Dives:** Check out my **Technical-docs** in the pinned repositories below!
